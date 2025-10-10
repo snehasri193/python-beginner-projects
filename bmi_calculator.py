@@ -1,5 +1,6 @@
-mass = 53
-height = 160
+weight = 53
+height = 1.45
 
-bmi = mass/height ** 2
+bmi = weight / (height**2)
+
 print(bmi)
